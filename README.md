@@ -1,1 +1,1 @@
-# -erikY-netimSistemi
+# İçerikYönetimSistemi
